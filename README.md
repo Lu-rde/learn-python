@@ -18,11 +18,11 @@ The goal is not only to learn Python syntax, but to develop **problem-solving sk
 | 04  | Conditional Statements   | ✅      |
 | 05  | Loops & Iterations       | ✅      |
 | 06  | Functions & Scopes       | ✅      |
-| 07  | —                        | ⬜      |
-| 08  | —                        | ⬜      |
+| 07  | Lists & Truples          | ✅      |
+| 08  | Dictionaries & Sets      | ✅      |
 | 09  | —                        | ⬜      |
 | 10  | —                        | ⬜      |
-| ... | ...                      | ...    |
+| ... | ...                      | ...     |
 | 30  | —                        | ⬜      |
 
 ---
