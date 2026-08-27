@@ -10,20 +10,20 @@ The goal is not only to learn Python syntax, but to develop **problem-solving sk
 
 ## 📚 Learning Path
 
-| Day | Topic                    | Status |
-| --- | ------------------------ | ------ |
-| 01  | Introduction to Python   | ✅      |
-| 02  | Variables & Data Types   | ✅      |
-| 03  | Operations & Expressions | ✅      |
-| 04  | Conditional Statements   | ✅      |
-| 05  | Loops & Iterations       | ✅      |
-| 06  | Functions & Scopes       | ✅      |
-| 07  | Lists & Truples          | ✅      |
-| 08  | Dictionaries & Sets      | ✅      |
-| 09  | —                        | ⬜      |
-| 10  | —                        | ⬜      |
-| ... | ...                      | ...     |
-| 30  | —                        | ⬜      |
+| Day | Topic                                    | Status |
+| --- | ---------------------------------------- | ------ |
+| 01  | Introduction to Python                   | ✅      |
+| 02  | Variables & Data Types                   | ✅      |
+| 03  | Operations & Expressions                 | ✅      |
+| 04  | Conditional Statements                   | ✅      |
+| 05  | Loops & Iterations                       | ✅      |
+| 06  | Functions & Scopes                       | ✅      |
+| 07  | Lists & Truples                          | ✅      |
+| 08  | Dictionaries & Sets                      | ✅      |
+| 09  | Strings & String Maniulation             | ✅      |
+| 10  | —                                        | ⬜      |
+| ... | ...                                      | ...     |
+| 30  | —                                        | ⬜      |
 
 ---
 
