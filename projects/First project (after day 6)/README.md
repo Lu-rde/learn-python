@@ -23,6 +23,7 @@ The program collects basic rocket and mission data, calculates key parameters, p
 * `range()`
 * F-strings
 * Basic program flow
+* Functions
 
 ---
 
