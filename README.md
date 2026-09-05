@@ -24,6 +24,7 @@ The goal is not only to learn Python syntax, but to develop **problem-solving sk
 | 10  | First Project                            | ✅      |
 | 11  | File & Exception Handling                | ✅      |
 | 12  | Modules & Packages                       | ✅      |
+| 13  | Object Oriented Programing (OOP)         | ✅      |
 | ... | ...                                      | ...     |
 | 30  | —                                        | ⬜      |
 
