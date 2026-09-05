@@ -21,7 +21,9 @@ The goal is not only to learn Python syntax, but to develop **problem-solving sk
 | 07  | Lists & Truples                          | ✅      |
 | 08  | Dictionaries & Sets                      | ✅      |
 | 09  | Strings & String Maniulation             | ✅      |
-| 10  | —                                        | ⬜      |
+| 10  | First Project                            | ✅      |
+| 11  | File & Exception Handling                | ✅      |
+| 12  | Modules & Packages                       | ✅      |
 | ... | ...                                      | ...     |
 | 30  | —                                        | ⬜      |
 
