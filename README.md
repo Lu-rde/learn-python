@@ -26,6 +26,7 @@ The goal is not only to learn Python syntax, but to develop **problem-solving sk
 | 12  | Modules & Packages                       | ✅      |
 | 13  | Object Oriented Programing (OOP)         | ✅      |
 | 14  | Class & Objects                          | ✅      |
+| 15  | Inheritance & Polymorphism               | ✅      |
 | ... | ...                                      | ...     |
 | 30  | —                                        | ⬜      |
 
